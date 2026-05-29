@@ -4,7 +4,6 @@ Guide for AI coding agents (Claude Code, Cursor, Aider, Codex, Copilot Workspace
 
 If you are an AI agent driving this repo, read this file first, then `CODE_OF_CONDUCT.md` (specifically the AI policy section), then `SECURITY.md`.
 
-## What Baileys is
 
 A TypeScript WebSocket client for the WhatsApp Web protocol. No browser, no Selenium — it speaks the binary Noise/protobuf protocol directly. Used by thousands of downstream projects, so changes to public APIs and wire-level handling have wide blast radius.
 
